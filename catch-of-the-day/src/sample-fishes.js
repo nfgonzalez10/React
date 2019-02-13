@@ -2,7 +2,7 @@
 module.exports = {
   fish1: {
     name: 'Pacific Halibut',
-    image: 'http://i.istockimg.com/file_thumbview_approve/36248396/5/stock-photo-36248396-blackened-cajun-sea-bass.jpg',
+    image: 'https://media.istockphoto.com/photos/delicious-and-fresh-spiced-and-seasoned-raw-fish-fillets-on-a-cutting-picture-id955898522?s=2048x2048',
     desc: 'Everyones favorite white fish. We will cut it to the size you need and ship it.',
     price: 1724,
     status: 'available'
@@ -10,7 +10,7 @@ module.exports = {
 
   fish2: {
     name: 'Lobster',
-    image: 'http://i.istockimg.com/file_thumbview_approve/32135274/5/stock-photo-32135274-cooked-lobster.jpg',
+    image: 'https://media.istockphoto.com/photos/lobster-tails-seasoned-for-the-grill-picture-id480380114?s=2048x2048',
     desc: 'These tender, mouth-watering beauties are a fantastic hit at any dinner party.',
     price: 3200,
     status: 'available'

@@ -10,7 +10,7 @@ export default class AddFishIFrom extends React.Component {
       desc: this.desc.value,
       image: this.image.value
     }
-    console.log('fish', fish)
+    console.log('fish', fish);
     this.props.addFish(fish);
     this.fishForm.reset();
   }
